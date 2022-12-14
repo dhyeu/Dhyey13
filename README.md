@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhyey13
+- 👋 Hi, I’m Dhyey
 - 👀 I’m interested in data structures and algorithms
 - 🌱 I’m currently learning at university of illinois in chicago
 - 📫 How to reach me: shoot me a dm on instagram @dhyeu, or email me at dhyeu13@gmail.com
